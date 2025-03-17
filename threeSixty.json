@@ -1,0 +1,174 @@
+{
+  "version": "3.97.34031.0",
+  "course_id": "5pFW3n7WzB1_course_id",
+  "title": "BÀI 45: SỐ CÓ 4 CHỮ SỐ ( Tiết 1) ",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Số có bốn chữ số"
+    },
+    {
+      "title": "Khởi động"
+    },
+    {
+      "title": "Khám phá"
+    },
+    {
+      "title": "Hoạt động"
+    },
+    {
+      "title": "Vận dung"
+    }
+  ],
+  "slides": [
+    {
+      "id": "686XCFLZgcA",
+      "title": "Trang bìa",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5npflFAdTn6",
+      "title": "Giới thiệu bài",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6lWVdI3MuHG",
+      "title": "Mục tiêu bài học",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6FyFMiMMIqe",
+      "title": "Tiến trình bài học",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "5uKP4Om0Grn",
+      "title": "Giới thiệu",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "6EWJAQUGmnG",
+      "title": "Trò chơi: Kéo co",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "6TR0myRSKNi",
+      "title": "Câu hỏi 1",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "651kVL7r9fB",
+      "title": "Câu hỏi 2",
+      "scene_index": "2.4"
+    },
+    {
+      "id": "6mXG39GLg6r",
+      "title": "Câu hỏi 3",
+      "scene_index": "2.5"
+    },
+    {
+      "id": "5axyZpgwjni",
+      "title": "Chốt trò chơi",
+      "scene_index": "2.6"
+    },
+    {
+      "id": "6Wd6UFYWd9u",
+      "title": "Khám phá",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "6kONKyDT6DA",
+      "title": "Video tình huống",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "6TiXP8flamH",
+      "title": "Cách viết",
+      "scene_index": "3.3"
+    },
+    {
+      "id": "6KhgibXtcf7",
+      "title": "Bài tập ví dụ",
+      "scene_index": "3.4"
+    },
+    {
+      "id": "5VnBpC39psG",
+      "title": "Cách đọc",
+      "scene_index": "3.5"
+    },
+    {
+      "id": "5s9t6YUM0vU",
+      "title": "Bài tập ví dụ",
+      "scene_index": "3.6"
+    },
+    {
+      "id": "6QBKd2AZmvE",
+      "title": "Hoạt động",
+      "scene_index": "3.7"
+    },
+    {
+      "id": "6V1HddxifiV",
+      "title": "Bài 1",
+      "scene_index": "4.1"
+    },
+    {
+      "id": "6BPRCZRZdZY",
+      "title": "Bài 1",
+      "scene_index": "4.2"
+    },
+    {
+      "id": "5pLvpzADv8C",
+      "title": "Bài 2: a",
+      "scene_index": "4.3"
+    },
+    {
+      "id": "6rF1z5Jw9E0",
+      "title": "Bài 2: b",
+      "scene_index": "4.4"
+    },
+    {
+      "id": "5yCoTIN32V0",
+      "title": "Bài 3",
+      "scene_index": "4.5"
+    },
+    {
+      "id": "5xWc4roZkZ1",
+      "title": "Bài 4",
+      "scene_index": "4.6"
+    },
+    {
+      "id": "6UtS3CuTH0P",
+      "title": "Vận dụng",
+      "scene_index": "5.1"
+    },
+    {
+      "id": "6HWrkIGc6nx",
+      "title": "Giới thiệu trò chơi",
+      "scene_index": "5.2"
+    },
+    {
+      "id": "66UDbKYj4AD",
+      "title": "Game Quizz",
+      "scene_index": "5.3"
+    },
+    {
+      "id": "6DwtriYHeZj",
+      "title": "Chào tạm biệt",
+      "scene_index": "5.4"
+    },
+    {
+      "id": "6XhkOnelIAY",
+      "title": "Tài liệu tham khảo",
+      "scene_index": "5.5"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1220,
+    "height": 658
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
